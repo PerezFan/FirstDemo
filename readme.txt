@@ -1,8 +1,1 @@
-hello everyone!
-first readme.
-
-add new line.
-
-yes i want to  and new line.
-
-666666
+https://www.cnblogs.com/smuxiaolei/p/7484678.html
